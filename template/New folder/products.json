@@ -1,0 +1,285 @@
+{
+    "products": [
+      {
+        "_id": "6710e4771ebd2a9755d5c698",
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature.",
+        "ratings": 4.5,
+        "images": [
+          { "image": "/images/products/mobile1.jpg" },
+          { "image": "/images/products/mobile2.jpg" }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": "3"
+      },
+      {
+        "_id": "6710e4771ebd2a9755d5c699",
+        "name": "Samsung Galaxy S21",
+        "price": 299.99,
+        "description": "Samsung Galaxy S21 offers stunning display and performance.",
+        "ratings": 4.7,
+        "images": [
+          { "image": "/images/products/mobile3.jpg" },
+          { "image": "/images/products/mobile4.jpg" }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Best Buy",
+        "stock": "5"
+      },
+      {
+        "_id": "6710e4771ebd2a9755d5c69a",
+        "name": "iPhone 13",
+        "price": 699.99,
+        "description": "iPhone 13 with A15 Bionic chip and advanced camera system.",
+        "ratings": 4.8,
+        "images": [
+          { "image": "/images/products/mobile5.jpg" },
+          { "image": "/images/products/mobile6.jpg" }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Apple Store",
+        "stock": "2"
+      },
+      {
+        "_id": "6710e4771ebd2a9755d5c69b",
+        "name": "Google Pixel 6",
+        "price": 599.99,
+        "description": "Google Pixel 6 with pure Android experience and excellent camera.",
+        "ratings": 4.6,
+        "images": [
+          { "image": "/images/products/mobile7.jpg" },
+          { "image": "/images/products/mobile8.jpg" }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Google Store",
+        "stock": "4"
+      },
+      {
+        "_id": "5710e4771ebd2a9755d5c600",
+        "name": "Dell XPS 13",
+        "price": 999.99,
+        "description": "Dell XPS 13 with a stunning display and powerful performance.",
+        "ratings": 4.6,
+        "images": [
+          { "image": "/images/products/laptop1.jpg" },
+          { "image": "/images/products/laptop2.jpg" }
+        ],
+        "category": "Laptops",
+        "seller": "Dell",
+        "stock": "10"
+      },
+      {
+        "_id": "5710e4771ebd2a9755d5c601",
+        "name": "MacBook Air",
+        "price": 1099.99,
+        "description": "MacBook Air with M1 chip for incredible speed.",
+        "ratings": 4.8,
+        "images": [
+          { "image": "/images/products/laptop3.jpg" },
+          { "image": "/images/products/laptop4.jpg" }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": "8"
+      },
+      {
+        "_id": "5710e4771ebd2a9755d5c602",
+        "name": "HP Spectre x360",
+        "price": 1199.99,
+        "description": "HP Spectre x360 with a flexible design and high performance.",
+        "ratings": 4.7,
+        "images": [
+          { "image": "/images/products/laptop5.jpg" },
+          { "image": "/images/products/laptop6.jpg" }
+        ],
+        "category": "Laptops",
+        "seller": "HP",
+        "stock": "6"
+      },
+      {
+        "_id": "5710e4771ebd2a9755d5c603",
+        "name": "Lenovo ThinkPad X1",
+        "price": 1299.99,
+        "description": "Lenovo ThinkPad X1 with exceptional durability and performance.",
+        "ratings": 4.5,
+        "images": [
+          { "image": "/images/products/laptop7.jpg" },
+          { "image": "/images/products/laptop8.jpg" }
+        ],
+        "category": "Laptops",
+        "seller": "Lenovo",
+        "stock": "5"
+      },
+      {
+        "_id": "4710e4771ebd2a9755d5c700",
+        "name": "Sony WH-1000XM4",
+        "price": 348.00,
+        "description": "Sony WH-1000XM4 with industry-leading noise cancellation.",
+        "ratings": 4.9,
+        "images": [
+          { "image": "/images/products/headphone1.jpg" },
+          { "image": "/images/products/headphone2.jpg" }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": "15"
+      },
+      {
+        "_id": "4710e4771ebd2a9755d5c701",
+        "name": "Bose QuietComfort 35 II",
+        "price": 299.99,
+        "description": "Bose QuietComfort 35 II with excellent sound quality and comfort.",
+        "ratings": 4.8,
+        "images": [
+          { "image": "/images/products/headphone3.jpg" },
+          { "image": "/images/products/headphone4.jpg" }
+        ],
+        "category": "Headphones",
+        "seller": "Best Buy",
+        "stock": "10"
+      },
+      {
+        "_id": "4710e4771ebd2a9755d5c702",
+        "name": "Apple AirPods Pro",
+        "price": 249.00,
+        "description": "Apple AirPods Pro with active noise cancellation.",
+        "ratings": 4.7,
+        "images": [
+          { "image": "/images/products/headphone5.jpg" },
+          { "image": "/images/products/headphone6.jpg" }
+        ],
+        "category": "Headphones",
+        "seller": "Apple Store",
+        "stock": "20"
+      },
+      {
+        "_id": "4710e4771ebd2a9755d5c703",
+        "name": "Sennheiser HD 660S",
+        "price": 399.99,
+        "description": "Sennheiser HD 660S for audiophile-grade sound.",
+        "ratings": 4.6,
+        "images": [
+          { "image": "/images/products/headphone7.jpg" },
+          { "image": "/images/products/headphone8.jpg" }
+        ],
+        "category": "Headphones",
+        "seller": "Sennheiser",
+        "stock": "8"
+      },
+      {
+        "_id": "2710e4771ebd2a9755d5c800",
+        "name": "Apple Watch Series 7",
+        "price": 399.00,
+        "description": "Apple Watch Series 7 with a larger display and advanced features.",
+        "ratings": 4.9,
+        "images": [
+          { "image": "/images/products/watch1.jpg" },
+          { "image": "/images/products/watch2.jpg" }
+        ],
+        "category": "Watches",
+        "seller": "Apple Store",
+        "stock": "10"
+      },
+      {
+        "_id": "2710e4771ebd2a9755d5c801",
+        "name": "Samsung Galaxy Watch 4",
+        "price": 249.99,
+        "description": "Samsung Galaxy Watch 4 with health tracking and a sleek design.",
+        "ratings": 4.7,
+        "images": [
+          { "image": "/images/products/watch3.jpg" },
+          { "image": "/images/products/watch4.jpg" }
+        ],
+        "category": "Watches",
+        "seller": "Samsung",
+        "stock": "15"
+      },
+      {
+        "_id": "2710e4771ebd2a9755d5c802",
+        "name": "Garmin Forerunner 245",
+        "price": 299.99,
+        "description": "Garmin Forerunner 245 for fitness enthusiasts with GPS.",
+        "ratings": 4.8,
+        "images": [
+          { "image": "/images/products/watch5.jpg" },
+          { "image": "/images/products/watch6.jpg" }
+        ],
+        "category": "Watches",
+        "seller": "Garmin",
+        "stock": "12"
+      },
+      {
+        "_id": "2710e4771ebd2a9755d5c803",
+        "name": "Fossil Gen 5",
+        "price": 299.00,
+        "description": "Fossil Gen 5 smartwatch with customizable watch faces.",
+        "ratings": 4.6,
+        "images": [
+          { "image": "/images/products/watch7.jpg" },
+          { "image": "/images/products/watch8.jpg" }
+        ],
+        "category": "Watches",
+        "seller": "Fossil",
+        "stock": "7"
+      },
+      {
+        "_id": "8710e4771ebd2a9755d5c900",
+        "name": "Nike Air Max 270",
+        "price": 149.99,
+        "description": "Nike Air Max 270 for comfort and style.",
+        "ratings": 4.5,
+        "images": [
+          { "image": "/images/products/shoe1.jpg" },
+          { "image": "/images/products/shoe2.jpg" }
+        ],
+        "category": "Shoes",
+        "seller": "Nike",
+        "stock": "20"
+      },
+      {
+        "_id": "8710e4771ebd2a9755d5c901",
+        "name": "Adidas Ultraboost 21",
+        "price": 179.99,
+        "description": "Adidas Ultraboost 21 with responsive cushioning.",
+        "ratings": 4.8,
+        "images": [
+          { "image": "/images/products/shoe3.jpg" },
+          { "image": "/images/products/shoe4.jpg" }
+        ],
+        "category": "Shoes",
+        "seller": "Adidas",
+        "stock": "15"
+      },
+      {
+        "_id": "8710e4771ebd2a9755d5c902",
+        "name": "Puma RS-X",
+        "price": 109.99,
+        "description": "Puma RS-X with bold colors and retro design.",
+        "ratings": 4.4,
+        "images": [
+          { "image": "/images/products/shoe5.jpg" },
+          { "image": "/images/products/shoe6.jpg" }
+        ],
+        "category": "Shoes",
+        "seller": "Puma",
+        "stock": "10"
+      },
+      {
+        "_id": "8710e4771ebd2a9755d5c903",
+        "name": "Reebok Nano X1",
+        "price": 129.99,
+        "description": "Reebok Nano X1 for cross-training and comfort.",
+        "ratings": 4.6,
+        "images": [
+          { "image": "/images/products/shoe7.jpg" },
+          { "image": "/images/products/shoe8.jpg" }
+        ],
+        "category": "Shoes",
+        "seller": "Reebok",
+        "stock": "12"
+      }
+    ]
+  }
+  

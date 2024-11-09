@@ -1,0 +1,266 @@
+[ 
+  {
+  "name": "OPPO phone F21s Pro 5G",
+  "price": 245.67,
+  "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/1.jpg"
+    },
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "Nothing Phone 2a Plus 5G",
+  "price": 200,
+  "description": "Nothing Phone (2a) Plus (Grey, 256 GB)  (8 GB RAM)",
+  "ratings": 4.0,
+  "images": [
+    {
+      "image": "/images/products/nothing-phone.jpg"
+    },
+    {
+      "image": "/images/products/nothing-phone.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Flipkart",
+  "stock": 4
+},
+{
+  "name": "Redmi phone A3x",
+  "price": 300.90,
+  "description": "Redmi A3X (Midnight Black, 3GB RAM, 64GB Storage) | Premium Halo Design | 90Hz Display | Powerful Octa Core Processor",
+  "ratings": 5.0,
+  "images": [
+    {
+      "image": "/images/products/redme-phone.jpg"
+    },
+    {
+      "image": "/images/products/redme-phone.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "realme NARZO 70 Pro 5G",
+  "price": 453.10,
+  "description": "realme NARZO 70 Pro 5G (Glass Green, 8GB RAM,128GB Storage) Dimensity 7050 5G Chipset | Horizon Glass Design | Segment 1st Flagship Sony IMX890 OIS Camera",
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/products/realme-phone.jpg"
+    },
+    {
+      "image": "/images/products/realme-phone.jpg"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": 5
+},
+{
+  "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+  "price": 150.32,
+  "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/2.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Flipkart",
+  "stock": 9
+},
+{
+  "name": "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch",
+  "price": 100.10,
+  "description": "SOLOLINK Screen Guard for Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution (Black)  (Pack of 1)",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/firebolt-watch.jpeg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 9
+},
+{
+  "name": "Redmi Watch 5 Active Smart Watch",
+  "price": 120.75,
+  "description": "Redmi Watch 5 Active BT Calling with 3mic ENC|2 HD Screen|HyperOS connectivity|Metal body|18 days of Battery Life|200+ Watch Faces|IPX8 rating|140+ Sports Modes|Heart Rate,Period Cycle Monitor|Silver",
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/products/redme-watch.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Flipkart",
+  "stock": 9
+},
+{
+  "name": "Dell Inspiron 3511 Laptop",
+  "price": 440.57,
+  "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/products/3.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "Lenovo IdeaPad Slim 3 Laptop",
+  "price": 250.45,
+  "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/6.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "ASUS VivoBook 15 Laptop",
+  "price": 767.32,
+  "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/7.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9
+},
+{
+  "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+  "price": 15.46,
+  "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/4.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Sony MDR-7506",
+  "price": 10.16,
+  "description": "Large diaphragm foldable headphones designed for professional studio and live/broadcast applications",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/sony_mdr.jpg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Dyson OnTrac™ headphones CNC Aluminium",
+  "price": 15.46,
+  "description": "Best-in-class noise cancellation. Enhanced audio range Long lasting battery life1 of 55 hours on one charge Headphones, remastered",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/dyson.jpeg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Flipkart",
+  "stock": 4
+},
+{
+  "name": "AirPods Max",
+  "price": 15.46,
+  "description": "The ultimate over‑ear personal listening experience — now in fresh new colours. AirPods Max deliver stunningly detailed, high‑fidelity audio.",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/airpods-max.jpeg"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  "name": "Campus Men's Maxico Running Shoes",
+  "price": 10.12,
+  "description": "The high raised back cover with extra padding.",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/5.jpg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+},
+{
+  "name": "Fluo M Running Shoes For Men",
+  "price": 18.9,
+  "description": "This is a genuine product of adidas India Marketing Private Ltd. The product comes with a standard brand warranty of 90 days.",
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/products/show-3.jpeg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+},
+{
+  "name": "MIKE (N) Running Shoes For Men ",
+  "price": 7.27,
+  "description": "This is a genuine product of adidas India Marketing Private Ltd. The product comes with a standard brand warranty of 90 days.",
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/products/show-2.jpeg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+},
+{
+  "name": "Lite Sports Shoes Running Shoes",
+  "price": 25.95,
+  "description": "This is a genuine product of adidas India Marketing Private Ltd. The product comes with a standard brand warranty of 90 days.",
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/products/show-1.jpeg"
+    }
+  ],
+  "category": "Sports",
+  "seller": "Ebay",
+  "stock": 6
+}
+]
